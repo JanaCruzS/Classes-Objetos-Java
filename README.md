@@ -2,7 +2,7 @@ Aula 02 - Curso Java Poo -  Prof Gustavo Guanabara
 
 # Caneta - Exemplo em Java
 Este projeto é uma introdução prática ao encapsulamento e à manipulação de objetos em Java. Ele mostra como usar modificadores de acesso, métodos acessores e construtores para criar e gerenciar objetos de forma segura e eficiente.
-Este projeto é um exemplo simples em Java que demonstra o uso da classe **Caneta** para simular o comportamento de uma caneta. A classe **Main** é usada para criar uma instância da caneta, configurar seus atributos e executar métodos que exibem seu estado e funcionalidades.
+Usando exemplo simples em Java que demonstra o uso da classe **Caneta** para simular o comportamento de uma caneta. A classe **Main** é usada para criar uma instância da caneta, configurar seus atributos e executar métodos que exibem seu estado e funcionalidades.
 
 ## Funcionalidades
 
