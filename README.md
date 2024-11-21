@@ -26,15 +26,4 @@ O código principal realiza as seguintes ações:
 3. Chama métodos para alterar o estado da caneta (exemplo: destampar).
 4. Exibe as informações da caneta usando o método `status()`.
 
-### Exemplo de Código
-```java
-public class Main {
-    public static void main(String[] args) {
-        Caneta c1 = new Caneta("bic", "preta", 0.7f);
-        c1.modelo = "bic cristal";  // Altera o modelo
-        c1.cor = "Azul";            // Altera a cor
-        c1.carga = 80;              // Define a carga
-        c1.destampar();             // Destampa a caneta
-        c1.status();                // Exibe o estado da caneta
-    }
-}
+
